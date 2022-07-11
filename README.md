@@ -34,8 +34,3 @@ fn main() {
 
 - Since this library does not depend on [youtube-dl](https://github.com/rg3/youtube-dl), there are some more things (not mentioning here) that we'll be missing out.
 
-## Running Tests
-
-```
-$ cargo test
-```
