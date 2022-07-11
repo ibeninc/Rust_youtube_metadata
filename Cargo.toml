@@ -1,0 +1,17 @@
+[package]
+name = "rafy"
+version = "0.2.1"
+authors = ["Ritiek <ritiekmalhotra123@gmail.com>"]
+description = "Rust library to download YouTube content and retrieve metadata"
+repository = "https://github.com/ritiek/rafy-rs"
+readme = "README.md"
+keywords = ["YouTube", "metadata", "rust", "content", "downloader"]
+categories = ["value-formatting", "data-structures"]
+license = "MIT"
+
+[dependencies]
+hyper = "0.10"
+hyper-native-tls = "0.2"
+pbr = "1.0.0-alpha.3"
+regex = "0.2"
+json = "0.11"
