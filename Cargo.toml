@@ -1,9 +1,9 @@
 [package]
-name = "rafy"
+name = "Rust youtube Meta"
 version = "0.2.1"
-authors = ["Ritiek <ritiekmalhotra123@gmail.com>"]
-description = "Rust library to download YouTube content and retrieve metadata"
-repository = "https://github.com/ritiek/rafy-rs"
+authors = ["Ruby"]
+description = "Rust package to fetch youtube metadata"
+repository = "https://github.com/ibeninc/Rust_youtube_metadata"
 readme = "README.md"
 keywords = ["YouTube", "metadata", "rust", "content", "downloader"]
 categories = ["value-formatting", "data-structures"]
