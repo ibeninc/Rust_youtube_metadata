@@ -11,7 +11,7 @@ Put the below in your `Cargo.toml`
 >
 > rafy = "0.2"
 
-## Usage Examples
+## Examples
 
 ```rust
 extern crate rafy;
